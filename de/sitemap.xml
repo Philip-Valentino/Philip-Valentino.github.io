@@ -2,46 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Philip-Valentino.github.io/Philip_Valentino/de/categories/</loc>
+    <loc>https://Philip-Valentino.github.io/de/post/</loc>
+    <lastmod>2022-01-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Philip-Valentino.github.io/Philip_Valentino/categories/"
+                href="https://Philip-Valentino.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://Philip-Valentino.github.io/Philip_Valentino/de/categories/"
+                href="https://Philip-Valentino.github.io/de/post/"
                 />
   </url><url>
-    <loc>https://Philip-Valentino.github.io/Philip_Valentino/de/</loc>
+    <loc>https://Philip-Valentino.github.io/de/</loc>
+    <lastmod>2022-01-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Philip-Valentino.github.io/Philip_Valentino/"
+                href="https://Philip-Valentino.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://Philip-Valentino.github.io/Philip_Valentino/de/"
+                href="https://Philip-Valentino.github.io/de/"
                 />
   </url><url>
-    <loc>https://Philip-Valentino.github.io/Philip_Valentino/de/tags/</loc>
+    <loc>https://Philip-Valentino.github.io/de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Philip-Valentino.github.io/Philip_Valentino/tags/"
+                href="https://Philip-Valentino.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://Philip-Valentino.github.io/Philip_Valentino/de/tags/"
+                href="https://Philip-Valentino.github.io/de/categories/"
+                />
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/forschung/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Philip-Valentino.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Philip-Valentino.github.io/de/contact/"
+                />
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/politivismus/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/portfolio/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Philip-Valentino.github.io/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Philip-Valentino.github.io/de/portfolio/"
+                />
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Philip-Valentino.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Philip-Valentino.github.io/de/tags/"
+                />
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/technik/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://Philip-Valentino.github.io/de/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Philip-Valentino.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://Philip-Valentino.github.io/de/about/"
                 />
   </url>
 </urlset>
